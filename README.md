@@ -1,2 +1,2 @@
 # Mikko Rautavirta - Kurssitehtävien Palautussivu
-[kurstehtpal.github.io](https://mikkocode.github.io/kurssitehtavapalautus/)Linkki Sivulle
+Sivut ovat verkossa: [mikkocode.github.io/kurssitehtavapalautus](https://mikkocode.github.io/kurssitehtavapalautus/)
