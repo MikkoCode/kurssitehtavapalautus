@@ -1,2 +1,2 @@
-# kurstehtpal.github.io
-Mikko Rautavirta - Kurssitehtävien Palautussivu
+# Mikko Rautavirta - Kurssitehtävien Palautussivu
+kurstehtpal.github.io
